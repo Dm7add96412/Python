@@ -1,0 +1,6 @@
+Ohjelmoinnin perusteet, 5 opintopistettä
+========================================
+nimi                          teht_lkm  teht_pist koe_pist  yht_pist  arvosana  
+pekka peloton                 21        5         9         14        0
+jaana javanainen              27        6         11        17        1
+liisa virtanen                35        8         14        22        3
